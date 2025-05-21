@@ -1,4 +1,4 @@
-Olá, atualmente sou estudante acadêmica cursando 3° período de Sistemas de Informação.
+Olá, atualmente sou estudante acadêmica cursando O 3° período de Sistemas de Informação.
 
  <div>
   <a href="https://github.com/iKamylla">
