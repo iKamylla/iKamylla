@@ -1,5 +1,4 @@
 Olá, atualmente sou estudante acadêmica cursando o 3° período de Sistemas de Informação.
-
 ## 
 
  <div>
