@@ -1,4 +1,4 @@
-Olá, atualmente sou estudante acadêmica cursando o 3° período de Sistemas de Informação.
+Olá, atualmente sou estudante acadêmica cursando o 4° período de Sistemas de Informação.
 ## 
 
  <div>
