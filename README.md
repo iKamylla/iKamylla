@@ -1,14 +1,5 @@
 Olá, atualmente sou estudante acadêmica cursando o 5° período de Sistemas de Informação e estagiando em suporte na SEFIN.
 ## 
-
-<div align="center">
-  <a href="https://github.com/iKamylla">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=iKamylla&show_icons=true&theme=dracula&include_all_commits=true&count_private=true""")/>>
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iKamylla&layout=compact&langs_count=16&theme=dracula""")/>>
-  </a>
-</div>
-   
- ##
  
 <div>
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
