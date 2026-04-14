@@ -1,4 +1,4 @@
-Olá, atualmente sou estudante acadêmica cursando o 4° período de Sistemas de Informação.
+Olá, atualmente sou estudante acadêmica cursando o 5° período de Sistemas de Informação e estagiando em suporte na SEFIN.
 ## 
 
  <div>
