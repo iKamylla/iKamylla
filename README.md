@@ -1,10 +1,11 @@
 Olá, atualmente sou estudante acadêmica cursando o 5° período de Sistemas de Informação e estagiando em suporte na SEFIN.
 ## 
 
- <div>
+<div align="center">
   <a href="https://github.com/iKamylla">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iKamylla&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iKamylla&layout=compact&langs_count=16&theme=dracula"/>
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=iKamylla&show_icons=true&theme=dracula&include_all_commits=true&count_private=true""")/>>
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iKamylla&layout=compact&langs_count=16&theme=dracula""")/>>
+  </a>
 </div>
    
  ##
